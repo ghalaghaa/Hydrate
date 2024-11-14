@@ -1,5 +1,8 @@
 # Hydrate
 <p>The <strong>"Hydrate"</strong> app, developed using the Swift programming language, is an innovative tool designed to help users track their daily water intake. The app aims to assist users in staying hydrated by providing an easy way to log and monitor their water consumption based on their individual needs.</p>
+<img src="/mnt/data/White Minimalist Simple Aesthetic Name Twitter Header.png" alt="Hydrate app image" style="width:100%; max-width:600px;">
+
+
 
 <h2>🚀 Key Features of the App</h2>
 
